@@ -1,0 +1,1 @@
+Shell permission scrpting directory
